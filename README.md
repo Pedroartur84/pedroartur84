@@ -49,10 +49,4 @@
   <img src="https://streak-stats.demolab.com?user=Pedroartur84&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-## Troféus GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pedroartur84&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
-> "O conhecimento é a luz que ilumina o caminho no vasto mundo da programação."
+> 
