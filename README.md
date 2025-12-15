@@ -40,7 +40,7 @@
 ## Streak de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedroartur84&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Pedroartur84&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
 > "O conhecimento é a luz que ilumina o caminho no vasto mundo da programação."
