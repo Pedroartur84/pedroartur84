@@ -1,8 +1,8 @@
-# ✦ Pedro Artur ✦
+# Pedro Artur
 
-<em>Um iniciante que jurou lealdade eterna ao código</em>
+*Desenvolvedor iniciante apaixonado por programação e aprendizado contínuo*
 
-## 🕯️ Linguagens
+## Tecnologias e Linguagens
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-## 🕯️ Tecnologias e Ferramentas
+## Ferramentas e Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
@@ -21,21 +21,26 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
-## 🕯️ Trabalhos que Jurei Realizar
+## Projetos em Destaque
 
 - [Plataforma de Educação Gamificada](https://github.com/Pedroartur84/Plataforma-de-educa-o-gameficada)
 
-## 🕯️ Minhas Contribuições
+## Estatísticas no GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pedroartur84&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-## 🕯️ Caminho da Constância
+## Atividade Recente (Últimos 31 Dias)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedroartur84&theme=dracula" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedroartur84&theme=dracula&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
-> _"No abismo do desconhecido, encontramos a luz do código."_  
-> _"Na escuridão, o conhecimento é a chama que guia nossos passos."_
+## Streak de Contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedroartur84&theme=tokyonight" alt="GitHub Streak Stats"/>
+</p>
+
+> "O conhecimento é a luz que ilumina o caminho no vasto mundo da programação."
