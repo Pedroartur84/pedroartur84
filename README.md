@@ -31,16 +31,28 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Pedroartur84&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
+## Linguagens Mais Usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroartur84&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
 ## Atividade Recente (Últimos 31 Dias)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedroartur84&theme=dracula&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
-## Streak de Contribuições
+## Streak de Contribuições (Dias com Atividade)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pedroartur84&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Pedroartur84&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+## Troféus GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedroartur84&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 > "O conhecimento é a luz que ilumina o caminho no vasto mundo da programação."
